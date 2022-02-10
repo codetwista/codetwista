@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blaqbones
-- 👀 I’m interested in sweb and software development
+- 👀 I’m interested in web and software development
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on open source and proprietary software projects. 
 - 📫 How to reach me ...
