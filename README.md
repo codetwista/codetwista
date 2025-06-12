@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blaqbones
+- 👋 Hi, I’m @codetwista
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on open source and proprietary software projects. 
